@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		43FC9B011B97D4A600B2E60C /* MaldonadoJulio-hw1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "MaldonadoJulio-hw1"; sourceTree = BUILT_PRODUCTS_DIR; };
-		43FC9B041B97D4A600B2E60C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		43FC9B041B97D4A600B2E60C /* main.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +88,8 @@
 		43FC9AF91B97D4A600B2E60C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Julio Maldonado";
 				TargetAttributes = {
@@ -236,6 +238,7 @@
 				43FC9B0A1B97D4A600B2E60C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
